@@ -6,6 +6,10 @@
 A Django-based web application for managing Movies, Cast & Crew, and Studios.
 Built as a final project for the SoftUni Django Basics Regular Exam (February 2026).
 
+Deployed in Azure Cloud an accessible:
+
+https://cinemanager-b6csf6deb2c5gbad.swedencentral-01.azurewebsites.net/
+
 ---
 
 📌 Project Overview
